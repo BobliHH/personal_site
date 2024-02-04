@@ -2,3 +2,11 @@
   width: 180px;
   border-radius: 50%;
 }
+.carousel-caption > h5,
+p {
+  font-weight: bolder;
+}
+body {
+  background-color: #f2efe5;
+}
+
